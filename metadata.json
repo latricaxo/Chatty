@@ -1,0 +1,6 @@
+{
+  "name": "Chatty",
+  "description": "Encrypted conversations. Shared experiences. Built for secure, meaningful digital connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
